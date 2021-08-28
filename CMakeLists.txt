@@ -33,6 +33,7 @@ macro(add_example name sources ege_deps)
     endif()
 endmacro()
 
+add_example("adding-camera"               "main.cpp" scene)
 add_example("adding-scene-and-objects"    "main.cpp" scene)
 add_example("creating-objects-with-parts" "main.cpp" scene)
 add_example("first-project"               "main.cpp" gui)
