@@ -1,0 +1,6 @@
+{
+    "parts": [
+        {"name": "bg",  "type": "Rectangle", "rect": {"pos": [-8, -8], "size": [16, 16]}, "layer": 1, "fillColor": "#808080"},
+        {"name": "bg2", "type": "Rectangle", "rect": {"pos": [-10, -10], "size": [20, 20]}, "layer": 0, "fillColor": "#008000"}
+    ]
+}
